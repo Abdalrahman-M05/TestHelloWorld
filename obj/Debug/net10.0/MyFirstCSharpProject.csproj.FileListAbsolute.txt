@@ -12,3 +12,4 @@ D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\refint\MyFirstCSharpProject.dl
 D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\MyFirstCSharpProject.pdb
 D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\MyFirstCSharpProject.genruntimeconfig.cache
 D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\ref\MyFirstCSharpProject.dll
+D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\MyFirstCSharpProject.sourcelink.json
