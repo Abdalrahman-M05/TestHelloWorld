@@ -1,0 +1,14 @@
+D:\TestGit\MyFirstCSharpProject\bin\Debug\net10.0\MyFirstCSharpProject.exe
+D:\TestGit\MyFirstCSharpProject\bin\Debug\net10.0\MyFirstCSharpProject.deps.json
+D:\TestGit\MyFirstCSharpProject\bin\Debug\net10.0\MyFirstCSharpProject.runtimeconfig.json
+D:\TestGit\MyFirstCSharpProject\bin\Debug\net10.0\MyFirstCSharpProject.dll
+D:\TestGit\MyFirstCSharpProject\bin\Debug\net10.0\MyFirstCSharpProject.pdb
+D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\MyFirstCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\MyFirstCSharpProject.AssemblyInfoInputs.cache
+D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\MyFirstCSharpProject.AssemblyInfo.cs
+D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\MyFirstCSharpProject.csproj.CoreCompileInputs.cache
+D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\MyFirstCSharpProject.dll
+D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\refint\MyFirstCSharpProject.dll
+D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\MyFirstCSharpProject.pdb
+D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\MyFirstCSharpProject.genruntimeconfig.cache
+D:\TestGit\MyFirstCSharpProject\obj\Debug\net10.0\ref\MyFirstCSharpProject.dll
